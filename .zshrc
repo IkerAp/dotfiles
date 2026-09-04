@@ -7,3 +7,5 @@ SAVEHIST=10000
 setopt appendhistory     # Añadir al historial en lugar de sobrescribirlo
 setopt sharehistory      # Compartir historial entre terminales abiertas
 setopt histignorealldups # No guardar comandos duplicados
+
+fastfetch
